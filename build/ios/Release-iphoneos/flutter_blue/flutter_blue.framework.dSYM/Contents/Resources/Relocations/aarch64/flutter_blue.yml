@@ -1,0 +1,177 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/maxienergy/Desktop/Диплом/Smart Connect/Smart Connect_Code/build/ios/Release-iphoneos/flutter_blue/flutter_blue.framework/flutter_blue"
+relocations:
+  - { offsetInCU: 0x34, offset: 0x5CA61, size: 0x8, addend: 0x0, symName: _flutter_blueVersionString, symObjAddr: 0x0, symBinAddr: 0xFCD8, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x5CA96, size: 0x8, addend: 0x0, symName: _flutter_blueVersionNumber, symObjAddr: 0x30, symBinAddr: 0xFD08, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x5CAD3, size: 0x8, addend: 0x0, symName: '+[ProtosInt32Value descriptor]', symObjAddr: 0x0, symBinAddr: 0x8000, symSize: 0x8C }
+  - { offsetInCU: 0x35, offset: 0x5CAE1, size: 0x8, addend: 0x0, symName: '+[ProtosInt32Value descriptor]', symObjAddr: 0x0, symBinAddr: 0x8000, symSize: 0x8C }
+  - { offsetInCU: 0x5F, offset: 0x5CB0B, size: 0x8, addend: 0x0, symName: _descriptor.descriptor, symObjAddr: 0xC780, symBinAddr: 0x19850, symSize: 0x0 }
+  - { offsetInCU: 0x75, offset: 0x5CB21, size: 0x8, addend: 0x0, symName: _descriptor.fields, symObjAddr: 0x3A58, symBinAddr: 0x189D8, symSize: 0x0 }
+  - { offsetInCU: 0xE0, offset: 0x5CB8C, size: 0x8, addend: 0x0, symName: '+[ProtosBluetoothState descriptor]', symObjAddr: 0xD8, symBinAddr: 0x80D8, symSize: 0x8C }
+  - { offsetInCU: 0x10A, offset: 0x5CBB6, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.5, symObjAddr: 0xC788, symBinAddr: 0x19858, symSize: 0x0 }
+  - { offsetInCU: 0x120, offset: 0x5CBCC, size: 0x8, addend: 0x0, symName: _descriptor.fields.6, symObjAddr: 0x3A78, symBinAddr: 0x189F8, symSize: 0x0 }
+  - { offsetInCU: 0x16C, offset: 0x5CC18, size: 0x8, addend: 0x0, symName: _ProtosBluetoothState_State_EnumDescriptor, symObjAddr: 0x164, symBinAddr: 0x8164, symSize: 0x78 }
+  - { offsetInCU: 0x192, offset: 0x5CC3E, size: 0x8, addend: 0x0, symName: _ProtosBluetoothState_State_EnumDescriptor.descriptor, symObjAddr: 0xC790, symBinAddr: 0x19860, symSize: 0x0 }
+  - { offsetInCU: 0x1B4, offset: 0x5CC60, size: 0x8, addend: 0x0, symName: _ProtosBluetoothState_State_EnumDescriptor.values, symObjAddr: 0x5064, symBinAddr: 0xFD50, symSize: 0x0 }
+  - { offsetInCU: 0x215, offset: 0x5CCC1, size: 0x8, addend: 0x0, symName: '+[ProtosAdvertisementData descriptor]', symObjAddr: 0x280, symBinAddr: 0x8280, symSize: 0x8C }
+  - { offsetInCU: 0x23F, offset: 0x5CCEB, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.14, symObjAddr: 0xC798, symBinAddr: 0x19868, symSize: 0x0 }
+  - { offsetInCU: 0x255, offset: 0x5CD01, size: 0x8, addend: 0x0, symName: _descriptor.fields.15, symObjAddr: 0x3A98, symBinAddr: 0x18A18, symSize: 0x0 }
+  - { offsetInCU: 0x2AE, offset: 0x5CD5A, size: 0x8, addend: 0x0, symName: '+[ProtosScanSettings descriptor]', symObjAddr: 0x30C, symBinAddr: 0x830C, symSize: 0x8C }
+  - { offsetInCU: 0x2DA, offset: 0x5CD86, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.42, symObjAddr: 0xC7A0, symBinAddr: 0x19870, symSize: 0x0 }
+  - { offsetInCU: 0x2F1, offset: 0x5CD9D, size: 0x8, addend: 0x0, symName: _descriptor.fields.43, symObjAddr: 0x3B58, symBinAddr: 0x18AD8, symSize: 0x0 }
+  - { offsetInCU: 0x34A, offset: 0x5CDF6, size: 0x8, addend: 0x0, symName: '+[ProtosScanResult descriptor]', symObjAddr: 0x398, symBinAddr: 0x8398, symSize: 0x8C }
+  - { offsetInCU: 0x376, offset: 0x5CE22, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.50, symObjAddr: 0xC7A8, symBinAddr: 0x19878, symSize: 0x0 }
+  - { offsetInCU: 0x38D, offset: 0x5CE39, size: 0x8, addend: 0x0, symName: _descriptor.fields.51, symObjAddr: 0x3BB8, symBinAddr: 0x18B38, symSize: 0x0 }
+  - { offsetInCU: 0x3DA, offset: 0x5CE86, size: 0x8, addend: 0x0, symName: '+[ProtosConnectRequest descriptor]', symObjAddr: 0x424, symBinAddr: 0x8424, symSize: 0x8C }
+  - { offsetInCU: 0x406, offset: 0x5CEB2, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.66, symObjAddr: 0xC7B0, symBinAddr: 0x19880, symSize: 0x0 }
+  - { offsetInCU: 0x41D, offset: 0x5CEC9, size: 0x8, addend: 0x0, symName: _descriptor.fields.67, symObjAddr: 0x3C18, symBinAddr: 0x18B98, symSize: 0x0 }
+  - { offsetInCU: 0x476, offset: 0x5CF22, size: 0x8, addend: 0x0, symName: '+[ProtosBluetoothDevice descriptor]', symObjAddr: 0x4B0, symBinAddr: 0x84B0, symSize: 0x8C }
+  - { offsetInCU: 0x4A2, offset: 0x5CF4E, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.74, symObjAddr: 0xC7B8, symBinAddr: 0x19888, symSize: 0x0 }
+  - { offsetInCU: 0x4B9, offset: 0x5CF65, size: 0x8, addend: 0x0, symName: _descriptor.fields.75, symObjAddr: 0x3C58, symBinAddr: 0x18BD8, symSize: 0x0 }
+  - { offsetInCU: 0x506, offset: 0x5CFB2, size: 0x8, addend: 0x0, symName: _ProtosBluetoothDevice_Type_EnumDescriptor, symObjAddr: 0x53C, symBinAddr: 0x853C, symSize: 0x78 }
+  - { offsetInCU: 0x52E, offset: 0x5CFDA, size: 0x8, addend: 0x0, symName: _ProtosBluetoothDevice_Type_EnumDescriptor.descriptor, symObjAddr: 0xC7C0, symBinAddr: 0x19890, symSize: 0x0 }
+  - { offsetInCU: 0x552, offset: 0x5CFFE, size: 0x8, addend: 0x0, symName: _ProtosBluetoothDevice_Type_EnumDescriptor.values, symObjAddr: 0x509C, symBinAddr: 0xFD88, symSize: 0x0 }
+  - { offsetInCU: 0x59A, offset: 0x5D046, size: 0x8, addend: 0x0, symName: '+[ProtosBluetoothService descriptor]', symObjAddr: 0x658, symBinAddr: 0x8658, symSize: 0x8C }
+  - { offsetInCU: 0x5C6, offset: 0x5D072, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.85, symObjAddr: 0xC7C8, symBinAddr: 0x19898, symSize: 0x0 }
+  - { offsetInCU: 0x5DD, offset: 0x5D089, size: 0x8, addend: 0x0, symName: _descriptor.fields.86, symObjAddr: 0x3CB8, symBinAddr: 0x18C38, symSize: 0x0 }
+  - { offsetInCU: 0x636, offset: 0x5D0E2, size: 0x8, addend: 0x0, symName: '+[ProtosBluetoothCharacteristic descriptor]', symObjAddr: 0x6E4, symBinAddr: 0x86E4, symSize: 0xA0 }
+  - { offsetInCU: 0x662, offset: 0x5D10E, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.101, symObjAddr: 0xC7D0, symBinAddr: 0x198A0, symSize: 0x0 }
+  - { offsetInCU: 0x679, offset: 0x5D125, size: 0x8, addend: 0x0, symName: _descriptor.fields.102, symObjAddr: 0x3D58, symBinAddr: 0x18CD8, symSize: 0x0 }
+  - { offsetInCU: 0x6DF, offset: 0x5D18B, size: 0x8, addend: 0x0, symName: '+[ProtosBluetoothDescriptor descriptor]', symObjAddr: 0x784, symBinAddr: 0x8784, symSize: 0xA0 }
+  - { offsetInCU: 0x70B, offset: 0x5D1B7, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.120, symObjAddr: 0xC7D8, symBinAddr: 0x198A8, symSize: 0x0 }
+  - { offsetInCU: 0x722, offset: 0x5D1CE, size: 0x8, addend: 0x0, symName: _descriptor.fields.121, symObjAddr: 0x3E38, symBinAddr: 0x18DB8, symSize: 0x0 }
+  - { offsetInCU: 0x77C, offset: 0x5D228, size: 0x8, addend: 0x0, symName: '+[ProtosCharacteristicProperties descriptor]', symObjAddr: 0x824, symBinAddr: 0x8824, symSize: 0x8C }
+  - { offsetInCU: 0x7A8, offset: 0x5D254, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.128, symObjAddr: 0xC7E0, symBinAddr: 0x198B0, symSize: 0x0 }
+  - { offsetInCU: 0x7BF, offset: 0x5D26B, size: 0x8, addend: 0x0, symName: _descriptor.fields.129, symObjAddr: 0x3ED8, symBinAddr: 0x18E58, symSize: 0x0 }
+  - { offsetInCU: 0x818, offset: 0x5D2C4, size: 0x8, addend: 0x0, symName: '+[ProtosDiscoverServicesResult descriptor]', symObjAddr: 0x8B0, symBinAddr: 0x88B0, symSize: 0x8C }
+  - { offsetInCU: 0x844, offset: 0x5D2F0, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.152, symObjAddr: 0xC7E8, symBinAddr: 0x198B8, symSize: 0x0 }
+  - { offsetInCU: 0x85B, offset: 0x5D307, size: 0x8, addend: 0x0, symName: _descriptor.fields.153, symObjAddr: 0x4018, symBinAddr: 0x18F98, symSize: 0x0 }
+  - { offsetInCU: 0x8A8, offset: 0x5D354, size: 0x8, addend: 0x0, symName: '+[ProtosReadCharacteristicRequest descriptor]', symObjAddr: 0x93C, symBinAddr: 0x893C, symSize: 0x8C }
+  - { offsetInCU: 0x8D4, offset: 0x5D380, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.159, symObjAddr: 0xC7F0, symBinAddr: 0x198C0, symSize: 0x0 }
+  - { offsetInCU: 0x8EB, offset: 0x5D397, size: 0x8, addend: 0x0, symName: _descriptor.fields.160, symObjAddr: 0x4058, symBinAddr: 0x18FD8, symSize: 0x0 }
+  - { offsetInCU: 0x944, offset: 0x5D3F0, size: 0x8, addend: 0x0, symName: '+[ProtosReadCharacteristicResponse descriptor]', symObjAddr: 0x9C8, symBinAddr: 0x89C8, symSize: 0x8C }
+  - { offsetInCU: 0x970, offset: 0x5D41C, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.163, symObjAddr: 0xC7F8, symBinAddr: 0x198C8, symSize: 0x0 }
+  - { offsetInCU: 0x987, offset: 0x5D433, size: 0x8, addend: 0x0, symName: _descriptor.fields.164, symObjAddr: 0x40D8, symBinAddr: 0x19058, symSize: 0x0 }
+  - { offsetInCU: 0x9D4, offset: 0x5D480, size: 0x8, addend: 0x0, symName: '+[ProtosReadDescriptorRequest descriptor]', symObjAddr: 0xA54, symBinAddr: 0x8A54, symSize: 0x8C }
+  - { offsetInCU: 0xA00, offset: 0x5D4AC, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.171, symObjAddr: 0xC800, symBinAddr: 0x198D0, symSize: 0x0 }
+  - { offsetInCU: 0xA17, offset: 0x5D4C3, size: 0x8, addend: 0x0, symName: _descriptor.fields.172, symObjAddr: 0x4118, symBinAddr: 0x19098, symSize: 0x0 }
+  - { offsetInCU: 0xA64, offset: 0x5D510, size: 0x8, addend: 0x0, symName: '+[ProtosReadDescriptorResponse descriptor]', symObjAddr: 0xAE0, symBinAddr: 0x8AE0, symSize: 0x8C }
+  - { offsetInCU: 0xA90, offset: 0x5D53C, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.177, symObjAddr: 0xC808, symBinAddr: 0x198D8, symSize: 0x0 }
+  - { offsetInCU: 0xAA7, offset: 0x5D553, size: 0x8, addend: 0x0, symName: _descriptor.fields.178, symObjAddr: 0x41B8, symBinAddr: 0x19138, symSize: 0x0 }
+  - { offsetInCU: 0xAF4, offset: 0x5D5A0, size: 0x8, addend: 0x0, symName: '+[ProtosWriteCharacteristicRequest descriptor]', symObjAddr: 0xB6C, symBinAddr: 0x8B6C, symSize: 0x8C }
+  - { offsetInCU: 0xB20, offset: 0x5D5CC, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.186, symObjAddr: 0xC810, symBinAddr: 0x198E0, symSize: 0x0 }
+  - { offsetInCU: 0xB37, offset: 0x5D5E3, size: 0x8, addend: 0x0, symName: _descriptor.fields.187, symObjAddr: 0x41F8, symBinAddr: 0x19178, symSize: 0x0 }
+  - { offsetInCU: 0xB84, offset: 0x5D630, size: 0x8, addend: 0x0, symName: _ProtosWriteCharacteristicRequest_WriteType_EnumDescriptor, symObjAddr: 0xBF8, symBinAddr: 0x8BF8, symSize: 0x78 }
+  - { offsetInCU: 0xBAC, offset: 0x5D658, size: 0x8, addend: 0x0, symName: _ProtosWriteCharacteristicRequest_WriteType_EnumDescriptor.descriptor, symObjAddr: 0xC818, symBinAddr: 0x198E8, symSize: 0x0 }
+  - { offsetInCU: 0xBD0, offset: 0x5D67C, size: 0x8, addend: 0x0, symName: _ProtosWriteCharacteristicRequest_WriteType_EnumDescriptor.values, symObjAddr: 0x50CC, symBinAddr: 0xFDB8, symSize: 0x0 }
+  - { offsetInCU: 0xC18, offset: 0x5D6C4, size: 0x8, addend: 0x0, symName: '+[ProtosWriteCharacteristicResponse descriptor]', symObjAddr: 0xD14, symBinAddr: 0x8D14, symSize: 0x8C }
+  - { offsetInCU: 0xC44, offset: 0x5D6F0, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.195, symObjAddr: 0xC820, symBinAddr: 0x198F0, symSize: 0x0 }
+  - { offsetInCU: 0xC5B, offset: 0x5D707, size: 0x8, addend: 0x0, symName: _descriptor.fields.196, symObjAddr: 0x42B8, symBinAddr: 0x19238, symSize: 0x0 }
+  - { offsetInCU: 0xCA8, offset: 0x5D754, size: 0x8, addend: 0x0, symName: '+[ProtosWriteDescriptorRequest descriptor]', symObjAddr: 0xDA0, symBinAddr: 0x8DA0, symSize: 0x8C }
+  - { offsetInCU: 0xCD4, offset: 0x5D780, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.203, symObjAddr: 0xC828, symBinAddr: 0x198F8, symSize: 0x0 }
+  - { offsetInCU: 0xCEB, offset: 0x5D797, size: 0x8, addend: 0x0, symName: _descriptor.fields.204, symObjAddr: 0x42F8, symBinAddr: 0x19278, symSize: 0x0 }
+  - { offsetInCU: 0xD38, offset: 0x5D7E4, size: 0x8, addend: 0x0, symName: '+[ProtosWriteDescriptorResponse descriptor]', symObjAddr: 0xE2C, symBinAddr: 0x8E2C, symSize: 0x8C }
+  - { offsetInCU: 0xD64, offset: 0x5D810, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.207, symObjAddr: 0xC830, symBinAddr: 0x19900, symSize: 0x0 }
+  - { offsetInCU: 0xD7B, offset: 0x5D827, size: 0x8, addend: 0x0, symName: _descriptor.fields.208, symObjAddr: 0x43B8, symBinAddr: 0x19338, symSize: 0x0 }
+  - { offsetInCU: 0xDC8, offset: 0x5D874, size: 0x8, addend: 0x0, symName: '+[ProtosSetNotificationRequest descriptor]', symObjAddr: 0xEB8, symBinAddr: 0x8EB8, symSize: 0x8C }
+  - { offsetInCU: 0xDF4, offset: 0x5D8A0, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.213, symObjAddr: 0xC838, symBinAddr: 0x19908, symSize: 0x0 }
+  - { offsetInCU: 0xE0B, offset: 0x5D8B7, size: 0x8, addend: 0x0, symName: _descriptor.fields.214, symObjAddr: 0x43F8, symBinAddr: 0x19378, symSize: 0x0 }
+  - { offsetInCU: 0xE58, offset: 0x5D904, size: 0x8, addend: 0x0, symName: '+[ProtosSetNotificationResponse descriptor]', symObjAddr: 0xF44, symBinAddr: 0x8F44, symSize: 0x8C }
+  - { offsetInCU: 0xE84, offset: 0x5D930, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.219, symObjAddr: 0xC840, symBinAddr: 0x19910, symSize: 0x0 }
+  - { offsetInCU: 0xE9B, offset: 0x5D947, size: 0x8, addend: 0x0, symName: _descriptor.fields.220, symObjAddr: 0x4498, symBinAddr: 0x19418, symSize: 0x0 }
+  - { offsetInCU: 0xEE8, offset: 0x5D994, size: 0x8, addend: 0x0, symName: '+[ProtosOnCharacteristicChanged descriptor]', symObjAddr: 0xFD0, symBinAddr: 0x8FD0, symSize: 0x8C }
+  - { offsetInCU: 0xF14, offset: 0x5D9C0, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.223, symObjAddr: 0xC848, symBinAddr: 0x19918, symSize: 0x0 }
+  - { offsetInCU: 0xF2B, offset: 0x5D9D7, size: 0x8, addend: 0x0, symName: _descriptor.fields.224, symObjAddr: 0x44F8, symBinAddr: 0x19478, symSize: 0x0 }
+  - { offsetInCU: 0xF78, offset: 0x5DA24, size: 0x8, addend: 0x0, symName: '+[ProtosDeviceStateResponse descriptor]', symObjAddr: 0x105C, symBinAddr: 0x905C, symSize: 0x8C }
+  - { offsetInCU: 0xFA4, offset: 0x5DA50, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.227, symObjAddr: 0xC850, symBinAddr: 0x19920, symSize: 0x0 }
+  - { offsetInCU: 0xFBB, offset: 0x5DA67, size: 0x8, addend: 0x0, symName: _descriptor.fields.228, symObjAddr: 0x4538, symBinAddr: 0x194B8, symSize: 0x0 }
+  - { offsetInCU: 0x1008, offset: 0x5DAB4, size: 0x8, addend: 0x0, symName: _ProtosDeviceStateResponse_BluetoothDeviceState_EnumDescriptor, symObjAddr: 0x10E8, symBinAddr: 0x90E8, symSize: 0x78 }
+  - { offsetInCU: 0x1030, offset: 0x5DADC, size: 0x8, addend: 0x0, symName: _ProtosDeviceStateResponse_BluetoothDeviceState_EnumDescriptor.descriptor, symObjAddr: 0xC858, symBinAddr: 0x19928, symSize: 0x0 }
+  - { offsetInCU: 0x1054, offset: 0x5DB00, size: 0x8, addend: 0x0, symName: _ProtosDeviceStateResponse_BluetoothDeviceState_EnumDescriptor.values, symObjAddr: 0x5108, symBinAddr: 0xFDF4, symSize: 0x0 }
+  - { offsetInCU: 0x1090, offset: 0x5DB3C, size: 0x8, addend: 0x0, symName: '+[ProtosConnectedDevicesResponse descriptor]', symObjAddr: 0x1204, symBinAddr: 0x9204, symSize: 0x8C }
+  - { offsetInCU: 0x10BC, offset: 0x5DB68, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.234, symObjAddr: 0xC860, symBinAddr: 0x19930, symSize: 0x0 }
+  - { offsetInCU: 0x10D3, offset: 0x5DB7F, size: 0x8, addend: 0x0, symName: _descriptor.fields.235, symObjAddr: 0x4578, symBinAddr: 0x194F8, symSize: 0x0 }
+  - { offsetInCU: 0x1120, offset: 0x5DBCC, size: 0x8, addend: 0x0, symName: '+[ProtosMtuSizeRequest descriptor]', symObjAddr: 0x1290, symBinAddr: 0x9290, symSize: 0x8C }
+  - { offsetInCU: 0x114C, offset: 0x5DBF8, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.241, symObjAddr: 0xC868, symBinAddr: 0x19938, symSize: 0x0 }
+  - { offsetInCU: 0x1163, offset: 0x5DC0F, size: 0x8, addend: 0x0, symName: _descriptor.fields.242, symObjAddr: 0x4598, symBinAddr: 0x19518, symSize: 0x0 }
+  - { offsetInCU: 0x11B0, offset: 0x5DC5C, size: 0x8, addend: 0x0, symName: '+[ProtosMtuSizeResponse descriptor]', symObjAddr: 0x131C, symBinAddr: 0x931C, symSize: 0x8C }
+  - { offsetInCU: 0x11DC, offset: 0x5DC88, size: 0x8, addend: 0x0, symName: _descriptor.descriptor.248, symObjAddr: 0xC870, symBinAddr: 0x19940, symSize: 0x0 }
+  - { offsetInCU: 0x11F3, offset: 0x5DC9F, size: 0x8, addend: 0x0, symName: _descriptor.fields.249, symObjAddr: 0x45D8, symBinAddr: 0x19558, symSize: 0x0 }
+  - { offsetInCU: 0x1240, offset: 0x5DCEC, size: 0x8, addend: 0x0, symName: _ProtosFlutterblueRoot_FileDescriptor, symObjAddr: 0x8C, symBinAddr: 0x808C, symSize: 0x4C }
+  - { offsetInCU: 0x1266, offset: 0x5DD12, size: 0x8, addend: 0x0, symName: _ProtosFlutterblueRoot_FileDescriptor.descriptor, symObjAddr: 0xC878, symBinAddr: 0x19948, symSize: 0x0 }
+  - { offsetInCU: 0x149E, offset: 0x5DF4A, size: 0x8, addend: 0x0, symName: _ProtosBluetoothState_State_RawValue, symObjAddr: 0x1DC, symBinAddr: 0x81DC, symSize: 0x38 }
+  - { offsetInCU: 0x1520, offset: 0x5DFCC, size: 0x8, addend: 0x0, symName: _SetProtosBluetoothState_State_RawValue, symObjAddr: 0x214, symBinAddr: 0x8214, symSize: 0x60 }
+  - { offsetInCU: 0x15B8, offset: 0x5E064, size: 0x8, addend: 0x0, symName: _ProtosBluetoothState_State_IsValidValue, symObjAddr: 0x274, symBinAddr: 0x8274, symSize: 0xC }
+  - { offsetInCU: 0x15E3, offset: 0x5E08F, size: 0x8, addend: 0x0, symName: _ProtosBluetoothDevice_Type_RawValue, symObjAddr: 0x5B4, symBinAddr: 0x85B4, symSize: 0x38 }
+  - { offsetInCU: 0x1648, offset: 0x5E0F4, size: 0x8, addend: 0x0, symName: _SetProtosBluetoothDevice_Type_RawValue, symObjAddr: 0x5EC, symBinAddr: 0x85EC, symSize: 0x60 }
+  - { offsetInCU: 0x16C8, offset: 0x5E174, size: 0x8, addend: 0x0, symName: _ProtosBluetoothDevice_Type_IsValidValue, symObjAddr: 0x64C, symBinAddr: 0x864C, symSize: 0xC }
+  - { offsetInCU: 0x16F5, offset: 0x5E1A1, size: 0x8, addend: 0x0, symName: _ProtosWriteCharacteristicRequest_WriteType_RawValue, symObjAddr: 0xC70, symBinAddr: 0x8C70, symSize: 0x38 }
+  - { offsetInCU: 0x175A, offset: 0x5E206, size: 0x8, addend: 0x0, symName: _SetProtosWriteCharacteristicRequest_WriteType_RawValue, symObjAddr: 0xCA8, symBinAddr: 0x8CA8, symSize: 0x60 }
+  - { offsetInCU: 0x17DA, offset: 0x5E286, size: 0x8, addend: 0x0, symName: _ProtosWriteCharacteristicRequest_WriteType_IsValidValue, symObjAddr: 0xD08, symBinAddr: 0x8D08, symSize: 0xC }
+  - { offsetInCU: 0x1807, offset: 0x5E2B3, size: 0x8, addend: 0x0, symName: _ProtosDeviceStateResponse_State_RawValue, symObjAddr: 0x1160, symBinAddr: 0x9160, symSize: 0x38 }
+  - { offsetInCU: 0x186C, offset: 0x5E318, size: 0x8, addend: 0x0, symName: _SetProtosDeviceStateResponse_State_RawValue, symObjAddr: 0x1198, symBinAddr: 0x9198, symSize: 0x60 }
+  - { offsetInCU: 0x18EC, offset: 0x5E398, size: 0x8, addend: 0x0, symName: _ProtosDeviceStateResponse_BluetoothDeviceState_IsValidValue, symObjAddr: 0x11F8, symBinAddr: 0x91F8, symSize: 0xC }
+  - { offsetInCU: 0x27, offset: 0x5E41C, size: 0x8, addend: 0x0, symName: '-[CBUUID(CBUUIDAdditionsFlutterBlue) fullUUIDString]', symObjAddr: 0x0, symBinAddr: 0x93A8, symSize: 0xDC }
+  - { offsetInCU: 0x2E1, offset: 0x5E6D6, size: 0x8, addend: 0x0, symName: '-[CBUUID(CBUUIDAdditionsFlutterBlue) fullUUIDString]', symObjAddr: 0x0, symBinAddr: 0x93A8, symSize: 0xDC }
+  - { offsetInCU: 0x318, offset: 0x5E70D, size: 0x8, addend: 0x0, symName: '+[FlutterBluePlugin registerWithRegistrar:]', symObjAddr: 0xDC, symBinAddr: 0x9484, symSize: 0x1D8 }
+  - { offsetInCU: 0x397, offset: 0x5E78C, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin handleMethodCall:result:]', symObjAddr: 0x2B4, symBinAddr: 0x965C, symSize: 0x14C8 }
+  - { offsetInCU: 0xBFF, offset: 0x5EFF4, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin findPeripheral:]', symObjAddr: 0x177C, symBinAddr: 0xAB24, symSize: 0x214 }
+  - { offsetInCU: 0xC8A, offset: 0x5F07F, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin locateCharacteristic:peripheral:serviceId:secondaryServiceId:]', symObjAddr: 0x1990, symBinAddr: 0xAD38, symSize: 0x1DC }
+  - { offsetInCU: 0xD46, offset: 0x5F13B, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin locateDescriptor:characteristic:]', symObjAddr: 0x1B6C, symBinAddr: 0xAF14, symSize: 0xBC }
+  - { offsetInCU: 0xDB1, offset: 0x5F1A6, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin findPrimaryService:peripheral:]', symObjAddr: 0x1C28, symBinAddr: 0xAFD0, symSize: 0x268 }
+  - { offsetInCU: 0xE37, offset: 0x5F22C, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin findCCCDescriptor:]', symObjAddr: 0x1E90, symBinAddr: 0xB238, symSize: 0x164 }
+  - { offsetInCU: 0xE94, offset: 0x5F289, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin getServiceFromArray:array:]', symObjAddr: 0x1FF4, symBinAddr: 0xB39C, symSize: 0x188 }
+  - { offsetInCU: 0xF0A, offset: 0x5F2FF, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin getCharacteristicFromArray:array:]', symObjAddr: 0x217C, symBinAddr: 0xB524, symSize: 0x188 }
+  - { offsetInCU: 0xF80, offset: 0x5F375, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin getDescriptorFromArray:array:]', symObjAddr: 0x2304, symBinAddr: 0xB6AC, symSize: 0x188 }
+  - { offsetInCU: 0xFF6, offset: 0x5F3EB, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin centralManagerDidUpdateState:]', symObjAddr: 0x248C, symBinAddr: 0xB834, symSize: 0xD4 }
+  - { offsetInCU: 0x106B, offset: 0x5F460, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin centralManager:didDiscoverPeripheral:advertisementData:RSSI:]', symObjAddr: 0x2560, symBinAddr: 0xB908, symSize: 0x134 }
+  - { offsetInCU: 0x10F0, offset: 0x5F4E5, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin centralManager:didConnectPeripheral:]', symObjAddr: 0x2694, symBinAddr: 0xBA3C, symSize: 0x120 }
+  - { offsetInCU: 0x1153, offset: 0x5F548, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin centralManager:didDisconnectPeripheral:error:]', symObjAddr: 0x27B4, symBinAddr: 0xBB5C, symSize: 0xB0 }
+  - { offsetInCU: 0x11B2, offset: 0x5F5A7, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin centralManager:didFailToConnectPeripheral:error:]', symObjAddr: 0x2864, symBinAddr: 0xBC0C, symSize: 0x4 }
+  - { offsetInCU: 0x1209, offset: 0x5F5FE, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin peripheral:didDiscoverServices:]', symObjAddr: 0x2868, symBinAddr: 0xBC10, symSize: 0x210 }
+  - { offsetInCU: 0x1284, offset: 0x5F679, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin peripheral:didDiscoverCharacteristicsForService:error:]', symObjAddr: 0x2A78, symBinAddr: 0xBE20, symSize: 0x174 }
+  - { offsetInCU: 0x12FF, offset: 0x5F6F4, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin peripheral:didDiscoverDescriptorsForCharacteristic:error:]', symObjAddr: 0x2BEC, symBinAddr: 0xBF94, symSize: 0xD4 }
+  - { offsetInCU: 0x1373, offset: 0x5F768, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin peripheral:didDiscoverIncludedServicesForService:error:]', symObjAddr: 0x2CC0, symBinAddr: 0xC068, symSize: 0x13C }
+  - { offsetInCU: 0x13EA, offset: 0x5F7DF, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin peripheral:didUpdateValueForCharacteristic:error:]', symObjAddr: 0x2DFC, symBinAddr: 0xC1A4, symSize: 0x22C }
+  - { offsetInCU: 0x146F, offset: 0x5F864, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin peripheral:didWriteValueForCharacteristic:error:]', symObjAddr: 0x3028, symBinAddr: 0xC3D0, symSize: 0x1CC }
+  - { offsetInCU: 0x14F8, offset: 0x5F8ED, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin peripheral:didUpdateNotificationStateForCharacteristic:error:]', symObjAddr: 0x31F4, symBinAddr: 0xC59C, symSize: 0x174 }
+  - { offsetInCU: 0x1590, offset: 0x5F985, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin peripheral:didUpdateValueForDescriptor:error:]', symObjAddr: 0x3368, symBinAddr: 0xC710, symSize: 0x4F4 }
+  - { offsetInCU: 0x165E, offset: 0x5FA53, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin peripheral:didWriteValueForDescriptor:error:]', symObjAddr: 0x385C, symBinAddr: 0xCC04, symSize: 0x374 }
+  - { offsetInCU: 0x16FF, offset: 0x5FAF4, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin toFlutterData:]', symObjAddr: 0x3BD0, symBinAddr: 0xCF78, symSize: 0x70 }
+  - { offsetInCU: 0x1755, offset: 0x5FB4A, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin toBluetoothStateProto:]', symObjAddr: 0x3C40, symBinAddr: 0xCFE8, symSize: 0x5C }
+  - { offsetInCU: 0x17AB, offset: 0x5FBA0, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin toScanResultProto:advertisementData:RSSI:]', symObjAddr: 0x3C9C, symBinAddr: 0xD044, symSize: 0x4A4 }
+  - { offsetInCU: 0x18FC, offset: 0x5FCF1, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin toDeviceProto:]', symObjAddr: 0x4140, symBinAddr: 0xD4E8, symSize: 0xC8 }
+  - { offsetInCU: 0x1952, offset: 0x5FD47, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin toDeviceStateProto:state:]', symObjAddr: 0x4208, symBinAddr: 0xD5B0, symSize: 0xA4 }
+  - { offsetInCU: 0x19B9, offset: 0x5FDAE, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin toServicesResultProto:]', symObjAddr: 0x42AC, symBinAddr: 0xD654, symSize: 0x1C0 }
+  - { offsetInCU: 0x1A3C, offset: 0x5FE31, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin toConnectedDeviceResponseProto:]', symObjAddr: 0x446C, symBinAddr: 0xD814, symSize: 0x174 }
+  - { offsetInCU: 0x1AC7, offset: 0x5FEBC, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin toServiceProto:service:]', symObjAddr: 0x45E0, symBinAddr: 0xD988, symSize: 0x3A0 }
+  - { offsetInCU: 0x1B84, offset: 0x5FF79, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin toCharacteristicProto:characteristic:]', symObjAddr: 0x4980, symBinAddr: 0xDD28, symSize: 0x408 }
+  - { offsetInCU: 0x1C38, offset: 0x6002D, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin toDescriptorProto:descriptor:]', symObjAddr: 0x4D88, symBinAddr: 0xE130, symSize: 0x224 }
+  - { offsetInCU: 0x1CB0, offset: 0x600A5, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin toCharacteristicPropsProto:]', symObjAddr: 0x4FAC, symBinAddr: 0xE354, symSize: 0xA8 }
+  - { offsetInCU: 0x1D06, offset: 0x600FB, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin toMtuSizeResponseProto:mtu:]', symObjAddr: 0x5054, symBinAddr: 0xE3FC, symSize: 0xA4 }
+  - { offsetInCU: 0x1D6D, offset: 0x60162, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin log:format:]', symObjAddr: 0x50F8, symBinAddr: 0xE4A0, symSize: 0x34 }
+  - { offsetInCU: 0x1DE3, offset: 0x601D8, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin getMtu:]', symObjAddr: 0x512C, symBinAddr: 0xE4D4, symSize: 0x1C }
+  - { offsetInCU: 0x1E28, offset: 0x6021D, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin registrar]', symObjAddr: 0x5148, symBinAddr: 0xE4F0, symSize: 0x8 }
+  - { offsetInCU: 0x1E5F, offset: 0x60254, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin setRegistrar:]', symObjAddr: 0x5150, symBinAddr: 0xE4F8, symSize: 0xC }
+  - { offsetInCU: 0x1EA0, offset: 0x60295, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin channel]', symObjAddr: 0x515C, symBinAddr: 0xE504, symSize: 0x8 }
+  - { offsetInCU: 0x1ED7, offset: 0x602CC, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin setChannel:]', symObjAddr: 0x5164, symBinAddr: 0xE50C, symSize: 0xC }
+  - { offsetInCU: 0x1F18, offset: 0x6030D, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin stateStreamHandler]', symObjAddr: 0x5170, symBinAddr: 0xE518, symSize: 0x8 }
+  - { offsetInCU: 0x1F4F, offset: 0x60344, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin setStateStreamHandler:]', symObjAddr: 0x5178, symBinAddr: 0xE520, symSize: 0xC }
+  - { offsetInCU: 0x1F90, offset: 0x60385, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin centralManager]', symObjAddr: 0x5184, symBinAddr: 0xE52C, symSize: 0x8 }
+  - { offsetInCU: 0x1FC7, offset: 0x603BC, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin setCentralManager:]', symObjAddr: 0x518C, symBinAddr: 0xE534, symSize: 0xC }
+  - { offsetInCU: 0x2008, offset: 0x603FD, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin scannedPeripherals]', symObjAddr: 0x5198, symBinAddr: 0xE540, symSize: 0x8 }
+  - { offsetInCU: 0x203F, offset: 0x60434, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin setScannedPeripherals:]', symObjAddr: 0x51A0, symBinAddr: 0xE548, symSize: 0xC }
+  - { offsetInCU: 0x2080, offset: 0x60475, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin servicesThatNeedDiscovered]', symObjAddr: 0x51AC, symBinAddr: 0xE554, symSize: 0x8 }
+  - { offsetInCU: 0x20B7, offset: 0x604AC, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin setServicesThatNeedDiscovered:]', symObjAddr: 0x51B4, symBinAddr: 0xE55C, symSize: 0xC }
+  - { offsetInCU: 0x20F8, offset: 0x604ED, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin characteristicsThatNeedDiscovered]', symObjAddr: 0x51C0, symBinAddr: 0xE568, symSize: 0x8 }
+  - { offsetInCU: 0x212F, offset: 0x60524, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin setCharacteristicsThatNeedDiscovered:]', symObjAddr: 0x51C8, symBinAddr: 0xE570, symSize: 0xC }
+  - { offsetInCU: 0x2170, offset: 0x60565, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin logLevel]', symObjAddr: 0x51D4, symBinAddr: 0xE57C, symSize: 0x8 }
+  - { offsetInCU: 0x21A7, offset: 0x6059C, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin setLogLevel:]', symObjAddr: 0x51DC, symBinAddr: 0xE584, symSize: 0x8 }
+  - { offsetInCU: 0x21E4, offset: 0x605D9, size: 0x8, addend: 0x0, symName: '-[FlutterBluePlugin .cxx_destruct]', symObjAddr: 0x51E4, symBinAddr: 0xE58C, symSize: 0x6C }
+  - { offsetInCU: 0x2217, offset: 0x6060C, size: 0x8, addend: 0x0, symName: '-[FlutterBlueStreamHandler onListenWithArguments:eventSink:]', symObjAddr: 0x5250, symBinAddr: 0xE5F8, symSize: 0x1C }
+  - { offsetInCU: 0x226D, offset: 0x60662, size: 0x8, addend: 0x0, symName: '-[FlutterBlueStreamHandler onCancelWithArguments:]', symObjAddr: 0x526C, symBinAddr: 0xE614, symSize: 0x1C }
+  - { offsetInCU: 0x22B2, offset: 0x606A7, size: 0x8, addend: 0x0, symName: '-[FlutterBlueStreamHandler sink]', symObjAddr: 0x5288, symBinAddr: 0xE630, symSize: 0xC }
+  - { offsetInCU: 0x22E9, offset: 0x606DE, size: 0x8, addend: 0x0, symName: '-[FlutterBlueStreamHandler setSink:]', symObjAddr: 0x5294, symBinAddr: 0xE63C, symSize: 0x8 }
+  - { offsetInCU: 0x2328, offset: 0x6071D, size: 0x8, addend: 0x0, symName: '-[FlutterBlueStreamHandler .cxx_destruct]', symObjAddr: 0x529C, symBinAddr: 0xE644, symSize: 0xC }
+...
