@@ -27,7 +27,10 @@ Smart Connect - это мобильное приложение iOS, разраб
 - Взаимодействие с мобильным устройством с помощью мобильного приложения Smart Connect посредством технологии BLE
 
 ## Демонстрация работы приложения с устройством SmartLight
-![](https://youtu.be/vqWY2OnZOFo)
+https://github.com/MaxiEnergy/SmartConnect/assets/58640177/0db40715-8ed3-4a59-a381-7cbcec01cd95
+
+## Демонстрация работы приложения с устройством SmartPulse
+https://github.com/MaxiEnergy/SmartConnect/assets/58640177/757e00d2-f7af-426e-a2ba-7a52de07ebdb
 
 ## Выпускная квалификационная работа
 С оригиналом выпускной квалификационной работы можно ознакомиться по [ссылке](https://www.dropbox.com/scl/fi/evywal0odwmc1053ck2il/_.pdf?rlkey=i7d2i8soxyn0wn4oav7f0py9n&dl=0)
