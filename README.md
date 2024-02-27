@@ -27,7 +27,7 @@ Smart Connect - это мобильное приложение iOS, разраб
 - Взаимодействие с мобильным устройством с помощью мобильного приложения Smart Connect посредством технологии BLE
 
 ## Демонстрация работы приложения с устройством SmartLight
-https://youtu.be/vqWY2OnZOFo
+![](https://youtu.be/vqWY2OnZOFo)
 
 ## Выпускная квалификационная работа
 С оригиналом выпускной квалификационной работы можно ознакомиться по [ссылке](https://www.dropbox.com/scl/fi/evywal0odwmc1053ck2il/_.pdf?rlkey=i7d2i8soxyn0wn4oav7f0py9n&dl=0)
