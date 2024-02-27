@@ -1,5 +1,5 @@
 
-<img width="551" alt="Снимок экрана 2024-02-06 в 22 55 27" src="https://github.com/MaxiEnergy/SmartConnect/assets/58640177/f85fc0ca-a597-4f01-8336-31c180d56fa5">
+<img width="1354" alt="Снимок экрана 2024-02-06 в 22 55 27" src="https://github.com/MaxiEnergy/SmartConnect/assets/58640177/f85fc0ca-a597-4f01-8336-31c180d56fa5">
 
 # Smart Connect
 Smart Connect - это мобильное приложение iOS, разработанное для управления устройствами Интернета вещей SmartLight и SmartPulse, созданными в рамках выпускной квалификационной работы. В качестве технологии беспроводной передачи данных используется BLE
