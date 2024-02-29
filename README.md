@@ -31,4 +31,4 @@ https://github.com/MaxiEnergy/SmartConnect/assets/58640177/757e00d2-f7af-426e-a2
 С оригиналом выпускной квалификационной работы можно ознакомиться по [ссылке](https://www.dropbox.com/scl/fi/evywal0odwmc1053ck2il/_.pdf?rlkey=i7d2i8soxyn0wn4oav7f0py9n&dl=0)
 
 ## Дополнительные материалы
-Читайте про создание данного приложения в статье на Хабре
+Читайте про создание данного приложения в [статье](https://habr.com/ru/articles/792684/) на Хабре
